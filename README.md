@@ -99,4 +99,4 @@ Full technical documentation (in Polish), including data models, is available in
 
 ## Authors
 
-Built by **Kajetan Szlenzak** ([Portfolio](https://kajetanszlenzak.github.io) · [LinkedIn](https://www.linkedin.com/in/kajetan-szlenzak-b7473a26a/)) and **Dawid Gulczyński**.
+Built by **Kajetan Szlenzak** ([Portfolio](https://kajetanszlenzak.github.io) · [LinkedIn](https://www.linkedin.com/in/kajetan-szlenzak/)) and **Dawid Gulczyński**.
